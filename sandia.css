@@ -1,0 +1,27 @@
+*{
+    background-color: lightblue;
+    box-sizing: border-box; 
+  }
+  a{
+  	color: #000001;
+  	text-decoration: none;
+
+  }
+  a:hover{
+  	color: pink;
+  	background: #839
+  }
+  .whitelink:hover{
+  	color: brown;
+  	background:lightblue;
+  }
+  .blacklink:hover{
+  	color: violet;
+  	background:black;
+}
+.fin{
+  	text-align:left;
+  	font-size: 24px;
+  	margin: 20px 0 0 0;
+  	color: 0965;
+  }
