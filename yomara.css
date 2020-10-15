@@ -1,14 +1,11 @@
-*{
-    background-color: lightblue;
-    box-sizing: border-box; 
-  }
+*
   a{
-    color: #000000;
+    color: yellow;
     text-decoration: none;
   }
   a:hover{
     color: pink;
-    background: #839
+    background: 
   }
   .redlink:hover{
     color: blue;
